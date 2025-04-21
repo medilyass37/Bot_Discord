@@ -1,0 +1,6 @@
+# Fichiers sensibles
+.env
+banned_words.json  
+*.wav
+
+
